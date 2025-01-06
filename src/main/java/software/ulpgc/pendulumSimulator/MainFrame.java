@@ -1,7 +1,6 @@
-package software.ulpgc.simulator;
+package software.ulpgc.pendulumSimulator;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class MainFrame extends JFrame {
 }

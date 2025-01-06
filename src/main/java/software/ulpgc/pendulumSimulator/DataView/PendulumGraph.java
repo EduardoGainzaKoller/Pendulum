@@ -1,4 +1,4 @@
-package software.ulpgc.simulator.DataView;
+package software.ulpgc.pendulumSimulator.DataView;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;

@@ -1,4 +1,4 @@
-package software.ulpgc.simulator.DataView;
+package software.ulpgc.pendulumSimulator.DataView;
 
 import java.util.List;
 
